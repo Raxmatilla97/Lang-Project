@@ -1,0 +1,31 @@
+<?php
+
+return [
+    'bildirishnomalar' => "TEst",
+    'barchasini_oqish' => "Barchasini o'qish",
+    'sizga_xabar_kelmagan' => " Sizga xabar kelmagan!",
+    'muloqot' => "TEst",
+    '' => "",
+    '' => "",
+    '' => "",
+    '' => "",
+    '' => "",
+    '' => "",
+    '' => "",
+    '' => "",
+    '' => "",
+    '' => "",
+    '' => "",
+    '' => "",
+    '' => "",
+    '' => "",
+    '' => "",
+    '' => "",
+    '' => "",
+    '' => "",
+    '' => "",
+    '' => "",
+    '' => "",
+    '' => "",
+
+];
